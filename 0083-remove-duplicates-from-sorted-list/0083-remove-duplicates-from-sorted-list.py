@@ -1,11 +1,11 @@
 class Solution:
     def deleteDuplicates(self, head):
-        current = head
+        curr = head
 
-        while current and current.next:
-            if current.val == current.next.val:
-                current.next = current.next.next
+        while curr and curr.next:
+            if curr.val == curr.next.val:
+                curr.next = curr.next.next
             else:
-                current = current.next
+                curr = curr.next
 
         return head
