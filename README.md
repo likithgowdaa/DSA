@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/likithgowdaa/DSA/tree/master/0015-3sum) |
 | [0202-happy-number](https://github.com/likithgowdaa/DSA/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/likithgowdaa/DSA/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -28,5 +29,14 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/likithgowdaa/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0234-palindrome-linked-list](https://github.com/likithgowdaa/DSA/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/likithgowdaa/DSA/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/likithgowdaa/DSA/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
 ## 2 sum
