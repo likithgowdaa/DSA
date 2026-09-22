@@ -1,16 +1,12 @@
 class Solution:
-    def isHappy(self, n: int) -> bool:
+    def isHappy(self, n):
         seen = set()
 
-        while n != 1 and n not in seen:
+        while n != 1:
+            if n in seen:
+                return False
             seen.add(n)
 
-            total = 0
-            while n > 0:
-                digit = n % 10
-                total += digit * digit
-                n //= 10
+            n = sum(int(digit) ** 2 for digit in str(n))
 
-            n = total
-
-        return n == 1
+        return True
