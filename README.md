@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/likithgowdaa/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0457-circular-array-loop](https://github.com/likithgowdaa/DSA/tree/master/0457-circular-array-loop) |
 | [0904-fruit-into-baskets](https://github.com/likithgowdaa/DSA/tree/master/0904-fruit-into-baskets) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/likithgowdaa/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Math
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0457-circular-array-loop](https://github.com/likithgowdaa/DSA/tree/master/0457-circular-array-loop) |
 | [0904-fruit-into-baskets](https://github.com/likithgowdaa/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/likithgowdaa/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/likithgowdaa/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Sorting
 |  |
 | ------- |
@@ -90,5 +92,9 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/likithgowdaa/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/likithgowdaa/DSA/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/likithgowdaa/DSA/tree/master/0424-longest-repeating-character-replacement) |
+## Counting
+|  |
+| ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/likithgowdaa/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
 ## 2 sum
