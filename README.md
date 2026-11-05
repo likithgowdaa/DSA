@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0142-linked-list-cycle-ii](https://github.com/likithgowdaa/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/likithgowdaa/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/likithgowdaa/DSA/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/likithgowdaa/DSA/tree/master/0283-move-zeroes) |
 | [0457-circular-array-loop](https://github.com/likithgowdaa/DSA/tree/master/0457-circular-array-loop) |
 | [0876-middle-of-the-linked-list](https://github.com/likithgowdaa/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Array
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/likithgowdaa/DSA/tree/master/0015-3sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/likithgowdaa/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0283-move-zeroes](https://github.com/likithgowdaa/DSA/tree/master/0283-move-zeroes) |
 | [0457-circular-array-loop](https://github.com/likithgowdaa/DSA/tree/master/0457-circular-array-loop) |
 | [0904-fruit-into-baskets](https://github.com/likithgowdaa/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/likithgowdaa/DSA/tree/master/1004-max-consecutive-ones-iii) |
